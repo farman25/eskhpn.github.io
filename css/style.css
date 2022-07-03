@@ -200,10 +200,10 @@ svg {
     }
 
 	nav .logo a {
-		margin-left: 0px;
+		margin-left: 1px;
 	}
 	nav .logo a span {
-		margin-left: 0px;
+		margin-left: 1px;
 	}
 
 }
