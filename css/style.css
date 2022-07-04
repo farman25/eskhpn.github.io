@@ -30,6 +30,21 @@ nav .logo a {
 	text-align: left;
 }
 
+.btn-kirim, .btn-loading {
+	width: 100%;
+}
+
+/* .p-kirim {
+	background-color: #e2fa0f;
+	color: rgb(0, 0, 0);
+} */
+
+.center {
+	display: flex;
+	justify-content: center;
+	/* align-items: center; */
+	
+  }
 nav div ul li {
 	font-size: 20px;
 }
@@ -48,6 +63,7 @@ a:hover {
 
 .form-skhpn {
 	padding-left: 20px;
+	justify-items: center;
 }
 
 .form-control {
@@ -198,7 +214,7 @@ svg {
         padding-top: 40px;
         line-height: 25px;
     }
-
+	
 	nav .logo a {
 		margin-left: 1px;
 	}
